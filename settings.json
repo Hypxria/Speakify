@@ -1,0 +1,5 @@
+{
+    "presets": [],
+    "_comment": "This sets the default mode for the application 1 = Voice 2 = Manual 0 = Choose every time",
+    "defaultMode": "1"
+}
