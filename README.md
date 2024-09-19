@@ -6,6 +6,7 @@ Python-based application that enables hands-free control of your Spotify playbac
 ## Installation
 - Make a application at https://developer.spotify.com (seen below)<br />
 - Add a Redirect URI to the application and set it as http://localhost:8888/callback
+
 https://github.com/user-attachments/assets/9ae27add-217b-477f-9a2c-b836a5c00875
 
 - Clone/Download This repo
