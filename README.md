@@ -39,7 +39,7 @@ Then follow up with any of these commands
 - Quit; to quit the program
 
 ## Settings
-You can change the defualt input setting by changing settings.json (instructions inside)
+You can change the default input setting by changing settings.json (instructions inside)
 
 #### Hint: Manual input doesn't require "Hey Spotify"
 
